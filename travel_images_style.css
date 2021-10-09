@@ -1,0 +1,161 @@
+body {
+	font-family: Open Sans;
+	background-color: #f9f9f9;
+  margin: 0em 2% 0em 2%;
+}
+
+.top li {
+	float: left;
+	padding: 0.35em 2em 0em 0em;
+}
+
+header {
+  margin-left: -2%;
+  margin-right: -2%;
+  background-color: #f9f9f9;
+	overflow: hidden;
+}
+
+a:hover {
+	color: #8662c7;
+}
+
+
+p > a {
+	color: #51279b;
+	font-family: Roboto Slab;
+	text-decoration: none;
+}
+
+li > a {
+	color: #51279b;
+	font-family: Roboto Slab;
+	text-decoration: none;
+}
+
+
+.middle > p {
+  display: inline-block;
+  color: #FFFFFF;
+	margin: 40em 10em 0em 10em;
+	font-family: Roboto Slab;
+}
+
+
+.middle > blockquote {
+  color: #FFFFFF;
+	font-size: 24px;
+  text-align: right;
+  margin: 0em 1em 0em 0em;
+	font-family: Roboto Slab;
+}
+
+ul {
+  overflow:hidden;
+	list-style-type: none;
+}
+
+header > img {
+	float: left;
+	padding: 0.25em 0em 0em 0.5em
+}
+
+.top {
+	margin: 0em 0em 0em 0em;
+  
+}
+
+.middle {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: auto;
+  text-align: center;
+}
+
+
+.bottom {
+  border-style: solid;
+  border-width: 0.15em;
+  border-color: black; 
+  margin-top: 0em;
+  margin-bottom: 0em;
+  background-color: #ffffff;
+}
+
+
+.bottom img {
+  vertical-align: top;
+  width: 100%;
+}
+
+.card {
+  font-family: Roboto Slab;
+  display: inline-block;
+  width: 32.933%;
+  margin-left: 0.2%;
+  margin-right: 0.2%;
+  background-color: #ffffff;
+}
+
+.card > a > img {
+  width: 100%;
+}
+
+
+.card p {
+  margin: 0em 0em 0em 0em;
+}
+
+.card ul {
+  display: block;
+  margin-left: 0.5em;
+  margin-bottom: 0.5em;
+  padding-left: 0em;
+}
+
+.card li {
+  margin-bottom: 0.5em;
+  display: block;
+}
+.card li > img {
+  width: 1em;
+  height: 1em;
+  margin-left: 1em;
+}
+
+.card li:first-child {
+  font-size: 14px;
+}
+
+.card li:nth-child(2) {
+  font-size: 12px;
+}
+.card li:last-child {
+  margin-top: 0.5em;
+  font-size: 10px;
+  font-size: 10px;
+  float:left;
+}
+
+.card li:last-child p {
+  display: inline-block;
+  margin-left: 0.5em;
+} 
+
+footer {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+footer a {
+  font-size: 14px;
+}
+
+footer p {
+  font-size: 10px;
+  margin: 0.3em 0em 0.3em 0em;
+}
+
